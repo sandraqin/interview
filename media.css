@@ -1,0 +1,156 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+h1{
+position: absolute;
+width: 1177px;
+height: 410px;
+left: 40px;
+top: 100px;
+
+font-family: 'Futura';
+font-style: normal;
+font-weight: 500;
+font-size: 160px;
+line-height: 180px;
+
+color:white;
+mix-blend-mode: difference;
+}
+
+.home{
+position: fixed;
+width: 150px;
+height: 20px;
+left: 55px;
+top: 43px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+
+color:white;
+mix-blend-mode: difference;
+}
+
+.script{
+position: fixed;
+width: 150px;
+height: 23px;
+left: 120px;
+top: 43px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+color:white;
+mix-blend-mode: difference;
+
+}
+
+.media{
+position: fixed;
+width: 150px;
+height: 23px;
+left: 205px;
+top: 43px;
+    
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+    
+color:white;
+mix-blend-mode: difference;
+}
+
+.info{
+position: fixed;
+width: 150px;
+height: 46px;
+left: 1234px;
+top: 700px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFFFF;
+mix-blend-mode: difference;
+}
+
+.time{
+position: fixed;
+width: 150px;
+height: 23px;
+left: 1234px;
+top: 44px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+mix-blend-mode: difference;
+}
+
+.arrow{
+position: absolute;
+width: 74.6px;
+height: 94.6px;
+left: 55px;
+top: 629px;  
+
+color:white;
+mix-blend-mode: difference;
+}
+
+
+.video-1{
+position: absolute;
+width: 293px;
+height: 190px;
+left: 55px;
+top: 1100px;
+
+}
+
+.video-2{
+position: absolute;
+width: 293px;
+height: 190px;
+left: 355px;
+top: 1100px;
+}
+
+.video-3{
+    position: absolute;
+    width: 293px;
+    height: 190px;
+    left: 665px;
+    top: 1100px;
+}
+
+.video-4{
+position: absolute;
+width: 293px;
+height: 190px;
+left: 975px;
+top: 1100px;
+    }
